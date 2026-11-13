@@ -7,7 +7,7 @@ VIDUVOX is an indie-made, Windows YouTube analytics tool for creators who are do
 [![Download Free](https://img.shields.io/badge/DOWNLOAD-FREE%20VERSION-59d98c?style=for-the-badge)](https://viduvox.itch.io/viduvox-free-youtube-analytics-tool-no-subscription-no-saas-no-account)
 [![Get Agency](https://img.shields.io/badge/GET-AGENCY%20VERSION-ff6a0a?style=for-the-badge)](https://viduvox.itch.io/viduvox-agency)
 
-![VIDUVOX dashboard](screenshots/dashboard.png)
+![VIDUVOX dashboard](dashboard.png)
 
 ## Why this exists
 
@@ -28,8 +28,8 @@ It also does not sugarcoat anything. If your engagement looks fake, it says so. 
 | **Content Gap Detection** | Topics your tracked channels do well with that you haven't covered. |
 | **Title, Tags & Description Generator** | Five title options, a tag list and a description draft in your channel's tone. |
 
-![AI Diagnosis](screenshots/diagnosis.png)
-![SEO Score](screenshots/seo.png)
+![AI Diagnosis](diagnosis.png)
+![SEO Score](seo.png)
 
 ## Free vs Agency
 
